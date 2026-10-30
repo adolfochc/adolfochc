@@ -52,15 +52,6 @@ Developed a mobile-oriented research solution for **urban sound source classific
 
 `AI Agents` · `RAG` · `LLM Applications` · `Machine Learning` · `Android` · `Backend Architecture` · `Cloud` · `Automation` · `Developer Experience`
 
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adolfochc&show_icons=true&hide_border=true&theme=transparent" alt="Derek's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfochc&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public repositories" height="160" />
-</div>
-
-<sub>GitHub cards reflect public repository activity, not the full scope of my professional experience.</sub>
-
 ---
 
 <div align="center">
